@@ -1,0 +1,2 @@
+# vision_pipeline_template
+画像処理パイプラインのテンプレート
